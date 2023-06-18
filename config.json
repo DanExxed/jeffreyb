@@ -1,0 +1,22 @@
+{
+    "token" : "",
+    "prefix" : "+",
+    "color" : "#ff2709",
+    "owners" : ["536944480469909569"],
+    "mongourl" : "",
+    "errors" : "https://discord.com/api/webhooks/1108719796591276042/PBpOYjEb2FJNHt03NHVAGHG9Y6ZJL43bcuUxVc5TY6VpJEb2W4kplRJleuhWuD1EStEY",
+    "spotifyId" : "260d195befa94d8393a34c1ea8bd55d2",
+    "noprefix" : "536944480469909569",
+    "mongourl2" : "",
+    "spotifySecret" : "fcc36054a0e44fe082573cbbced29d05",
+    "topggapi" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjkwNDMxNzE0MTg2NjY0NzU5MiIsImJvdCI6dHJ1ZSwiaWF0IjoxNjczNTI3OTYzfQ.WwA0KXh_nAQcBmR7BPqgLGyElYZheTQmguQfA2F6aNc",
+    "server" : "https://discord.gg/",
+    "nodes" : [
+        {
+        "name" : "Lavalink Node 1",
+        "url" : "41.216.188.213:2333",
+        "auth" : "dsc.gg/nitrixexe",
+        "secure" : false
+        }
+    ]
+}
